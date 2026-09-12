@@ -6,3 +6,5 @@ class ApiResponse{
     this.success = statusCode < 404
   }
 }
+
+export {ApiResponse}
